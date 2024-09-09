@@ -1,4 +1,4 @@
-import reti
+import reti as reti
 
-# Esegui il programma principale di reti.py
+# Esegui il programma principale dell'applicazione
 reti.main()

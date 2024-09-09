@@ -5,6 +5,8 @@ __pycache__/
 
 # C extensions
 *.so
+*.c  # Escludi file C
+*.pyd  # Escludi file PYD
 
 # Distribution / packaging
 .Python
@@ -159,5 +161,19 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-# Ecludi file batch
+# Escludi file batch
 *.bat
+
+# Escludi file Python
+*.py
+
+# Escludi file PYX
+*.pyx
+
+# Escludi file C
+*.c
+
+# Escludi cartella build e compile
+build/
+compile/
+
