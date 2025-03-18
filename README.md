@@ -10,6 +10,6 @@ Il programma computa tracce dell'esame di Reti di calcolatori fino a.a. 23-24 su
 L'inserimento degli input, in caso di input non ammissibili, potrebbe ogni tanto dare errori, in quanto non tutti sono stati controllati, quindi si prega di dare input corretti.
 
 # Avvio
-1. Vai alla sezione "Release" del tuo repository GitHub qui.
-2. Scarica il file eseguibile tuo-progetto.exe.
+1. Vai alla sezione "Release" del tuo repository GitHub qui, aprendo la versione più recente.
+2. Scarica il file eseguibile main.exe.
 3. Una volta scaricato, fai doppio clic sul file .exe per avviare l'applicazione.
